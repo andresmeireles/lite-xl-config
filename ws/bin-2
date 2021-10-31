@@ -1,0 +1,1 @@
+return { path = "/usr/local/bin", documents = {["type"]="leaf",["views"]={}}, directories = {} }
